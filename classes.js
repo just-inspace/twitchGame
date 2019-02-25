@@ -1,0 +1,8 @@
+exports.classes = {
+	FIGHTER: "FIGHTER",
+	MAGE: "MAGE",
+	CLERIC: "CLERIC",
+	KNIGHT: "KNIGHT",
+	THIEF: "THIEF",
+	MYSTIC: "MYSTIC"
+};
